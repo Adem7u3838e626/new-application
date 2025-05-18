@@ -30,19 +30,23 @@ You can clone the repository using Git:
 ```bash
 git clone https://github.com/Adem7u3838e626/new-application.git
 cd your-repo-name
-
+```
 Or download it as a ZIP and extract it:
 https://github.com/Adem7u3838e626/new-application/archive/refs/heads/main.zip
 
 3. Run the Program
 
 On Windows, double-click start.py or run it using PowerShell or Command Prompt:
+```powershell
 
 setup_and_run.ps1
+```
 
 On Linux, you can run:
+```bash
 
 bash start.sh
+```
 
 This will:
 
