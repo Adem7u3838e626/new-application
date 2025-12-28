@@ -1,9 +1,9 @@
 import socket
 import urllib.request
 
-
+#set your locale ip or public ip here
 TARGET_LOCAL_IP = '192.168.0.9'
-TARGET_PUBLIC_IP = '197.30.211.161'
+TARGET_PUBLIC_IP = '198.0.0.0'
 TARGET_PORT = 4546
 
 def get_local_ip():
