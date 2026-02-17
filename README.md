@@ -28,8 +28,8 @@ Make sure to check ✅ "Add Python to PATH" during installation on Windows.
 You can clone the repository using Git:
 
 ```bash
-git clone https://github.com/Adem7u3838e626/new-application.git
-cd your-repo-name
+git clone https://github.com/Adem7u3838e626/Reverse-Shell.git
+cd Reverse-Shell
 ```
 Or download it as a ZIP and extract it:
 https://github.com/Adem7u3838e626/new-application/archive/refs/heads/main.zip
